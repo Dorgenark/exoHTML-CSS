@@ -1,0 +1,21 @@
+td, th {
+    border: 1px solid black;
+    padding: 3px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+tr {
+    color: forestgreen;
+}
+
+.brown {
+    background-color: saddlebrown;
+}
+
+.grey {
+    background-color: darkslategrey;
+}
